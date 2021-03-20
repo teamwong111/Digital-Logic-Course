@@ -1,4 +1,4 @@
-# Cpp-Programming-Course
+# Digital-Logic-Course
 这是我在同济大学数字逻辑课程（2019）的大作业
 
 ---
